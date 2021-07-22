@@ -37,8 +37,12 @@ __StringBuilder vs StringBuffer__
     * 동기화를 지원하지 않기때문에 멀티쓰레드 환경에서 사용하는 것은 적합하지 않다
     * 동기화를 고려하지 않는 만큼 단일쓰레드에서의 성능은 StringBuffer 보다 뛰어나다
 
+<br>
+<br>
 
 
-
+출처 
+* https://ifuwanna.tistory.com/221 [IfUwanna IT]
+* 인프런 - 코딩테스트 전 꼭 알아야 할 개념과 문제(with 자바)
 
 
