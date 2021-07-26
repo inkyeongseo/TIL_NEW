@@ -59,5 +59,18 @@ public static double power(double x, int n) {
 ```
 <br>
 <br>
+
 __Fibonacci Number__
 
+```java
+public int fibonacci(int n){
+    if(n<2>)
+        return n;
+    else
+        return fibonacci(n-1) + fibonacci(n-2);
+}
+```
+<br>
+<br>
+
+출처 : 인프런<영리한 프로그램을 위한 알고리즘 강좌>
