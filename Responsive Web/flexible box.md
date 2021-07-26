@@ -54,13 +54,13 @@ display : flex;
     * __align-items__
     * stretch | flex-stat | flex-end | center | baseline
     * 특정 플렉스 아이템의 배치를 변경하기 위해서는 align-self 속성을 사용한다.
-<br><br>
+<br><br><br>
 
 * 플렉스 아이템 배치 순서
     * 플렉스 아이템 밗의 배치 순서를 자유롭게 정할 수 있다.
     * __order__
     * 0이 기본값이며 정수값을 사용해야 한다.
-<br><br>
+<br><br><br>
 
 * 플렉스 아이템 크기 
     * 플렉스 아이템이 플렉서블 박스보다 크거나 작을 경우 플렉스 아이템 박스의 크기를 늘이거나 줄여 가변적으로 작동한다.
