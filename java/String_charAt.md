@@ -3,7 +3,7 @@
 특정 위치에 있는 문자를 알아낼 수 있다.
 
 <br>
-
+ 
 __charAt(i) - '0';__
 ```java
 int num = str.char(i) - '0';

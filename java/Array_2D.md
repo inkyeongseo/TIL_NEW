@@ -1,5 +1,5 @@
 # 이차원 배열
-
+ 
 ## 선언
 ```java
 int[][] array = new int[2][5];

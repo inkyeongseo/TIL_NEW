@@ -1,7 +1,7 @@
 ## subString()
 ---
 특정 위치의 문자열을 가져오는 메소드
-
+ 
 <br>
 
 __subString(BeginIndex, endIndex);__
