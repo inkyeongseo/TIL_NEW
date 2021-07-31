@@ -13,6 +13,16 @@ __List 컬렉션__
 <br>
 <br>
 
+__ArrayList__
+
+* List컬렉션 인터페이스를 구현한 클래스이다.
+* 배열과 달리 크기를 동적으로 조절할 수 있다.
+```java
+ArrayList<Integer> a = new ArrayList<>();
+```
+<br>
+<br>
+
 __Map에 있는 값을 list로 변환하는 예시__
 
 ```java
@@ -24,7 +34,8 @@ for(int key : map.keySet()){
     list[topFrequent].add(key); // key
 }
 ```
-map에 있는 key값으로 value를 알아낸 뒤 list에 값을 집어 넣는다.
+map에 있는 key값으로 value를 알아낸 뒤 list에 ArrayList를 만들어 key 값을 집어 넣는다.
+
 
 <br>
 
