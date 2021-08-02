@@ -3,7 +3,7 @@
 
 <br>
 
-배열에 있는 값을 오름차순으로 정렬하는 방법
+__배열에 있는 값을 오름차순으로 정렬하는 방법__
 <br>
 
 1.첫 번째
@@ -49,6 +49,9 @@ Comparator comp = new Comparator<Interval>(){
     }
 };
 ```
+<br>
+
+Arrays.sort는 배열을 정렬할 때 사용하고 Collections.sort는 List를 정렬할 때 사용한다.
 
 <br>
 
