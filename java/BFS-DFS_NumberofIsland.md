@@ -123,4 +123,4 @@ O(M*N)
 출처
 
 * 인프런 - 코딩테스트 전 꼭 알아야 할 개념과 문제(with 자바)
-* https://www.inflearn.com/course/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%B0%94-%EA%B0%9C%EB%85%90/dashboard
+* https://www.inflearn.com/course/코딩테스트-자바-개념/dashboard
