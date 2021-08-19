@@ -19,6 +19,9 @@ User.findOne({email: req.body.email}, (err,user)=>{
     }
 ```
 
+<br>
+<br>
+
 2. 요청된 이메일이 있다면 비밀번호가 맞는지 확인한다.
 ```js
 user.comparePassword(req.body.password, (err,isMatch)=>{
@@ -39,6 +42,9 @@ plainPassword가 진짜 비밀번호, 암호화된 비밀번호와 같은지 확
 plainPassword을 암호화해서 db에 있는 것과 같은지 확인해야 함
 
 cb에 에러는 없고 Match가 됨을 뜻함 
+
+<br>
+<br>
 
 3. 비밀번호가 같다면 token을 생성한다.
 
