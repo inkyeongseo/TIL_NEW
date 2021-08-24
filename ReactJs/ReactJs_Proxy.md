@@ -60,6 +60,27 @@ src퐅더에 setupProxy.js 파일을 만들어준다.
 https://create-react-app.dev/docs/proxying-api-requests-in-development/
 
 <br>
+
+__Proxy Server 역할__
+
+<br>
+
+1. 데이터를 보내는 유저의 IP를 임의로 바꿔 인터넷에 접근하는 유저의 IP를 모르게 할 수 있다.
+2. 보내는 데이터를 임의로 바꿀 수 있다.
+3. 방화벽 기능
+4. 웹 필터 기능
+5. 캐쉬 데이터, 공유 데이터 제공 기능
+
+<br>
+
+__Proxy Server 사용 이유__
+
+* 특정 사이트에 접근하지 못하도록 제어 
+* 캐쉬를 이용해 더 빠른 인터넷 제공
+* 유저 IP를 임의로 변경해 더 나으 보안 제공
+
+
+<br>
 <br>
 <br>
 
