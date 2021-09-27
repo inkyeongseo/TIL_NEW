@@ -80,3 +80,18 @@ __결과__
 
 <br>
 
+__데이터베이스 별 함수 명__
+
+데이터베이스 별 함수명이 다르므로 주의해야 한다.
+
+<br>
+
+1. MySQL
+    
+    * substr()
+    * substring()
+2. Oracle
+    * substr()
+3. SQL Server
+    * substring()
+
